@@ -1,1 +1,1 @@
-First line in file1.txt by Developer A.
+First line in file1.txt by Developer A.Second line in file2.txt by developer A.
